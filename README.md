@@ -1,27 +1,52 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+# 👋 Hi, I’m @RekhaGutthi
 
-<h1 align="center">Hi 👋, I'm Rekha</h1>
-<h3 align="center">I am interested to learn cybersecurity.</h3>
+A passionate professional dedicated to leveraging data in roles such as Data Analyst, Business Analyst, and my favourite, Data Scientist. I focus on transforming complex data into actionable insights to drive impactful decisions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rekhagutthi&label=Profile%20views&color=0e75b6&style=flat" alt="rekhagutthi" /> </p>
+## I’m passionate about:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekhagutthi" alt="rekhagutthi" /></a> </p>
+- **Harnessing Data:** Transforming raw data into meaningful insights and solutions.
+- **Exploring Trends:** Identifying patterns and trends to drive strategic decisions.
+- **Data-Driven Storytelling:** Creating compelling visualizations that translate complex data into actionable narratives.
+- **Machine Learning:** Supervised learning, Unsupervised Learning, Clustering, Forecasting
 
-- 🌱 I’m currently learning **Python**
+## Skills:
 
-- 📫 How to reach me **rekhagutthi3400@gmail.com**
+- **Data Analysis:** Pandas, NumPy, SQL, Microsoft Excel
+- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+- **Programming:** Python, MySQL, R
+- **Deep Learning:** TensorFlow, Keras, PyTorch.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rekha-gutthi-772a21244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rekhagutthi" height="30" width="40" /></a>
-</p>
+## 🌱 Learning:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Cloud Computing (AWS, Azure):** AWS, Azure
+- **Generative AI:** Generative AI, LLM
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekhagutthi&show_icons=true&locale=en&layout=compact" alt="rekhagutthi" /></p>
+## 💞️ Collaboration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekhagutthi&show_icons=true&locale=en" alt="rekhagutthi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhagutthi&" alt="rekhagutthi" /></p>
 
+## 📫 How to Reach Me
+
+- [GitHub]( https://github.com/RekhaGutthi)
+- [LinkedIn]( linkedin.com/in/rekha-gutthi)
+- [Email]( rekhagutthi711@gmail.com)
+
+## 😄 Pronouns
+
+- Her
+
+## ⚡ Hobbies
+
+- **Reading: ** Planting.
+- **Learning **
+
+## 🎉 Fact About Me
+
+"Dedicated to completing every task I start with full effort."
+"A team player and have growth mindset"
+
+## 📊 Data Analysis in Action
+
+![Data Analyst GIF](#)
+
+**Data Visualization & Storytelling** - Understanding data, creating visualizations, and taking actionable insights.
